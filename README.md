@@ -1,8 +1,6 @@
 # Chatapp
-Just a simple app chat to learn how socket.io works
 
-# Heroku app
-Chat is hosted in Heroku and available in https://pezzetti-chat-app.herokuapp.com/
+Just a simple chat app to learn how socket.io works
 
 ## :rocket: Technologies
 
@@ -13,12 +11,14 @@ This project uses :
 - [Mustache](https://github.com/janl/mustache.js)
 
 # Installation and Usage
+
 ```bash
     npm install
     npm run dev
 ```
+
 Web site will be available in http://localhost:3000
 
-Open multiple browsers, add an username and room name 
+Open multiple browsers, add an username and room name
 
 Start chatting !
